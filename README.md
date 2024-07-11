@@ -37,7 +37,6 @@ It is being proposed in order to strengthen democracy by increasing popular part
 
 ![MaticVigil](matic.png)
 
-###### Source:https://medium.com/blockvigil/maticvigil-scalable-blockchain-api-for-everyone-2bc09489e602
 
 ## Deploying a new Smart contract to the Matic Network and running the app successfully
 
